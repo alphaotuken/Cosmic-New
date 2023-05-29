@@ -128,7 +128,7 @@ while (true) {
 		);
 
 		console.log(
-			`You can now view ${chalk.bold('website-aio')} in the browser.`
+			`You can now view ${chalk.bold('cosmic')} in the browser.`
 		);
 
 		console.log('');
